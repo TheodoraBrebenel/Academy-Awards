@@ -1,0 +1,91 @@
+Wings###Silent###7.5
+The Broadway Melody###Musical###5.7
+All Quiet on the Western Front###War###8.0
+Cimarron###Western###5.9
+Grand Hotel###Drama###7.4
+Cavalcade###Drama###5.9
+It Happened One Night###Romance###8.1
+Mutiny on the Bounty###Adventure###7.7
+The Great Ziegfeld###Musical###6.7
+The Life of Emile Zola###Biography###7.2
+You Can't Take It With You###Comedy###7.9
+Gone with the Wind###Epic###8.1
+Rebecca###Thriller###8.1
+How Green Was My Valley###Drama###7.7
+Mrs. Miniver###War###7.6
+Casablanca###Drama###8.5
+Going My Way###Musical###7.9
+The Lost Weekend###Drama###7.9
+The Best Years of Our Lives###War###8.0
+Gentleman's Agreement###Drama###7.2
+Hamlet###Drama###7.7
+All the King's Men###Drama###7.5
+All About Eve###Drama###8.2
+An American in Paris###Musical###7.2
+The Greatest Show on Earth###Epic###6.6
+From Here to Eternity###War###7.6
+On the Waterfront###Crime###8.1
+Marty###Romance###7.7
+Around the World in 80 Days###Adventure###6.8
+The Bridge on the River Kwai###War###8.1
+Gigi###Musical###6.7
+Ben-Hur###Epic###8.1
+The Apartment###Comedy###8.3
+West Side Story###Musical###7.5
+Lawrence of Arabia###Biography###8.2
+Tom Jones###Comedy###6.5
+My Fair Lady###Musical###7.8
+The Sound of Music###Musical###8.0
+A Man for All Seasons###Biography###7.7
+In the Heat of the Night###Crime###7.5
+Oliver###Musical###7.4
+Midnight Cowboy###Drama###7.8
+Patton###Biography###7.9
+The French Connection###Crime###7.7
+The Godfather###Crime###9.2
+The Sting###Comedy###8.3
+The Godfather Part II###Crime###9.0
+One Flew Over the Cuckoo's Nest###Drama###8.7
+Rocky###Sports###8.1
+Annie Hall###Comedy###8.0
+The Deer Hunter###War###8.1
+Kramer vs. Kramer###Drama###7.8
+Ordinary People###Drama###7.7
+Chariots of Fire###Drama###7.2
+Gandhi###Biography###8.0
+Terms of Endearment###Comedy###7.4
+Amadeus###Biography###8.3
+Out of Africa###Biography###7.2
+Platoon###War###8.1
+The Last Emperor###Biography###7.7
+Rain Man###Drama###8.0
+Driving Miss Daisy###Comedy###7.4
+Dances with Wolves###Western###8.0
+The Silence of the Lambs###Thriller###8.6
+Unforgiven###Western###8.2
+Schindler's List###Biography###8.9
+Forrest Gump###Comedy###8.8
+Braveheart###Epic###8.3
+The English Patient###War###7.4
+Titanic###Romance###7.8
+Shakespeare in Love###Romance###7.1
+American Beauty###Drama###8.3
+Gladiator###Epic###8.5
+A Beautiful Mind###Biography###8.2
+Chicago###Musical###7.1
+The Lord of the Rings:The Return of the King###Fantasy###8.9
+Million Dollar Baby###Sports###8.1
+Crash###Drama###7.8
+The Departed###Crime###8.5
+No Country for Old Men###Crime###8.1
+Slumdog Millionaire###Romance###8.0
+The Hurt Locker###War###7.6
+The King's Speech###Biography###8.0
+The Artist###Silent###7.0
+Argo###Drama###7.7
+12 Years a Slave###Biography###8.1
+Birdman###Comedy###7.7
+Spotlight###Biography###8.1
+Moonlight###Drama###7.4
+The Shape of Water###Fantasy###7.3
+Green Book###Biography###8.2
